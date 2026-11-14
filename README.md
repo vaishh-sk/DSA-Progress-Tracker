@@ -6,13 +6,13 @@ My data structures and algorithms practice code.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 5 | 5 | 0 | 0 |
+| 6 | 6 | 0 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 4 |
+| 3 days | 3 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,26 +20,33 @@ My data structures and algorithms practice code.
 | 2026-10-19 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 2 |
+| 2026-11-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 5 | 100% |
-| Hash Table | 2 | 40% |
-| Sorting | 2 | 40% |
-| Matrix | 1 | 20% |
-| Prefix Sum | 1 | 20% |
-| Two Pointers | 1 | 20% |
+| Array | 6 | 100% |
+| Hash Table | 3 | 50% |
+| Sorting | 3 | 50% |
+| Boyer–Moore Majority Vote Algorithm | 1 | 17% |
+| Counting | 1 | 17% |
+| Divide and Conquer | 1 | 17% |
+| Matrix | 1 | 17% |
+| Prefix Sum | 1 | 17% |
+| Two Pointers | 1 | 17% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 5 |
-| [Hash Table](Topics/hash-table/) | 2 |
+| [Array](Topics/array/) | 6 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
+| [Counting](Topics/counting/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Hash Table](Topics/hash-table/) | 3 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
